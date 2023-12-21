@@ -63,9 +63,9 @@ button:hover {
 
 .greeted {
   font-style: italic;
-  font-family: fantasy;
-  font-size: 18px;
+  font-size: 1.3em;
   text-shadow: 2px 2px 4px black;
+  font-family: fantasy;
 }
 
 @media only screen and (max-width: 767px) {
