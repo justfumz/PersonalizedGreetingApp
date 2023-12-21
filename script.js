@@ -31,6 +31,6 @@ clearButton.addEventListener('click', function () {
 
 // Function to display personalized greeting
 function displayGreeting(name) {
-  greetingElement.textContent = `Ho! Ho!! Ho!!! Wishing you a joy-filled holiday season, ${name}! Stay elfie and bright.`;
+  greetingElement.textContent = `Happy holidays, ${name}! May your days be filled with warmth, laughter, and all the joy this festive season brings. Cheers to wonderful moments and delightful celebrations!`;
   greetingElement.classList.add('greeted');
 }
